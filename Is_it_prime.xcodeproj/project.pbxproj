@@ -63,7 +63,9 @@
 				1318A3AB1A872BE200B79814 /* Is_it_primeTests */,
 				1318A3941A872BE100B79814 /* Products */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
 		};
 		1318A3941A872BE100B79814 /* Products */ = {
 			isa = PBXGroup;
@@ -405,6 +407,7 @@
 				1318A3B41A872BE200B79814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1318A3B51A872BE200B79814 /* Build configuration list for PBXNativeTarget "Is_it_primeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				1318A3B71A872BE200B79814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
